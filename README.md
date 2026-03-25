@@ -86,3 +86,5 @@ After the code, list the next 5 logical development steps with priorities (e.g.,
 Prioritize **security, decentralization, and correctness** over features. If something is too complex for a first pass, provide a clean stub with a detailed TODO explaining how to implement it securely.
 
 Start building Smoke Net now.
+
+The official name is the german "Rauch Netz"
