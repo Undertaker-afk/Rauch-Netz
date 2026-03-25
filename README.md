@@ -6,11 +6,11 @@ Build the initial foundation for **Smoke Net** — a new decentralized anonymity
 
 1. **Project Structure**
    - Cargo workspace with these crates:
-     - `smokenet-core` (shared types, crypto, config, error handling)
-     - `smokenet-netdb` (distributed network database)
-     - `smokenet-tunnel` (multi-hop tunnel / circuit creation and management)
-     - `smokenet-anomaly` (anomaly detection and instant vanishing logic)
-     - `smokenet-cli` (binary with basic commands: start node, send test message, status, etc.)
+     - `rauchnetz-core` (shared types, crypto, config, error handling)
+     - `rauchnetz-netdb` (distributed network database)
+     - `rauchnetz-tunnel` (multi-hop tunnel / circuit creation and management)
+     - `rauchnetz-anomaly` (anomaly detection and instant vanishing logic)
+     - `rauchnetz-cli` (binary with basic commands: start node, send test message, status, etc.)
    - Use edition 2021, Rust 2024 edition where possible.
 
 2. **P2P Stack**
